@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int day = 1;
+	int day = 5;
 	scanf("%d", &day);
 
 	switch(day){
