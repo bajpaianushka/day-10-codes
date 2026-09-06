@@ -2,7 +2,7 @@
 int main() {
 	int a = 3;
 	int b = 3;
-	int c = 3;
+	int c = 4;
 	scanf("%d %d %d", &a, &b, &c);
 
 	if(a == b && b == c){
